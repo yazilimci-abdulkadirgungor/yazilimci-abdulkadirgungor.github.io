@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.sizinsiteniz.com/sitemap.xml 
+Sitemap: https://yazilimci-abdulkadirgungor.github.io
